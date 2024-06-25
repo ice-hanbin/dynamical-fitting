@@ -1,0 +1,1792 @@
+LOOP: 1
+params: {'NonbondedForce': {'sigma': Array([0.338], dtype=float32), 'epsilon': Array([0.893795], dtype=float32)}}
+Loss: 0.20017813
+nve gradient: {'NonbondedForce': {'epsilon': Array([-1.7937002], dtype=float32), 'sigma': Array([-79.852905], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.5512152], dtype=float32), 'sigma': Array([1.5328813], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-1.242485], dtype=float32), 'sigma': Array([-78.32002], dtype=float32)}}
+Effective sample sizes:
+diffusion: 98
+Total: 99.99999854287093
+Add loop-1
+LOOP: 2
+params: {'NonbondedForce': {'epsilon': Array([0.90379494], dtype=float32), 'sigma': Array([0.3382], dtype=float32)}}
+Loss: 0.12772305
+nve gradient: {'NonbondedForce': {'epsilon': Array([-1.3725185], dtype=float32), 'sigma': Array([-55.86367], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.27359104], dtype=float32), 'sigma': Array([17.467382], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-1.0989275], dtype=float32), 'sigma': Array([-38.396286], dtype=float32)}}
+Effective sample sizes:
+loop-1: 98
+Total: 99.99995156212684
+Add loop-2
+LOOP: 3
+params: {'NonbondedForce': {'epsilon': Array([0.9137441], dtype=float32), 'sigma': Array([0.33838585], dtype=float32)}}
+Loss: 0.13572577
+nve gradient: {'NonbondedForce': {'epsilon': Array([-1.2644479], dtype=float32), 'sigma': Array([-57.355057], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.03685284], dtype=float32), 'sigma': Array([6.2792115], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-1.3013008], dtype=float32), 'sigma': Array([-51.075844], dtype=float32)}}
+Effective sample sizes:
+loop-2: 98
+Total: 99.99999827158446
+Add loop-3
+LOOP: 4
+params: {'NonbondedForce': {'epsilon': Array([0.9237379], dtype=float32), 'sigma': Array([0.3385744], dtype=float32)}}
+Loss: 0.06492664
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.9439253], dtype=float32), 'sigma': Array([-45.973858], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.10313362], dtype=float32), 'sigma': Array([-5.607099], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-1.0470589], dtype=float32), 'sigma': Array([-51.580956], dtype=float32)}}
+Effective sample sizes:
+loop-3: 98
+Total: 99.99999845030271
+Add loop-4
+LOOP: 5
+params: {'NonbondedForce': {'epsilon': Array([0.9336551], dtype=float32), 'sigma': Array([0.33876482], dtype=float32)}}
+Loss: 0.059422202
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.6791209], dtype=float32), 'sigma': Array([-32.293503], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.06610203], dtype=float32), 'sigma': Array([-9.106224], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.7452229], dtype=float32), 'sigma': Array([-41.399727], dtype=float32)}}
+Effective sample sizes:
+loop-4: 98
+Total: 99.99999807149732
+Add loop-5
+LOOP: 6
+params: {'NonbondedForce': {'epsilon': Array([0.9432937], dtype=float32), 'sigma': Array([0.3389534], dtype=float32)}}
+Loss: 0.047104675
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.660049], dtype=float32), 'sigma': Array([-29.8468], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.6297784], dtype=float32), 'sigma': Array([-47.4466], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-1.2898273], dtype=float32), 'sigma': Array([-77.2934], dtype=float32)}}
+Effective sample sizes:
+loop-5: 98
+Total: 99.99999827354159
+Add loop-6
+LOOP: 7
+params: {'NonbondedForce': {'epsilon': Array([0.95307463], dtype=float32), 'sigma': Array([0.3391466], dtype=float32)}}
+Loss: 0.043419283
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.71873623], dtype=float32), 'sigma': Array([-36.001812], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.54700416], dtype=float32), 'sigma': Array([-27.46999], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-1.2657404], dtype=float32), 'sigma': Array([-63.4718], dtype=float32)}}
+Effective sample sizes:
+loop-6: 98
+Total: 99.9999394454999
+Add loop-7
+LOOP: 8
+params: {'NonbondedForce': {'epsilon': Array([0.9629465], dtype=float32), 'sigma': Array([0.3393419], dtype=float32)}}
+Loss: 0.01030035
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.32398823], dtype=float32), 'sigma': Array([-16.995071], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.24014199], dtype=float32), 'sigma': Array([-11.867943], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.5641302], dtype=float32), 'sigma': Array([-28.863014], dtype=float32)}}
+Effective sample sizes:
+loop-7: 98
+Total: 99.999998319857
+Add loop-8
+LOOP: 9
+params: {'NonbondedForce': {'epsilon': Array([0.9724047], dtype=float32), 'sigma': Array([0.3395292], dtype=float32)}}
+Loss: 0.011942626
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.3582119], dtype=float32), 'sigma': Array([-18.20056], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.4991808], dtype=float32), 'sigma': Array([-20.619057], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.85739267], dtype=float32), 'sigma': Array([-38.81962], dtype=float32)}}
+Effective sample sizes:
+loop-8: 98
+Total: 99.99993813332671
+Add loop-9
+LOOP: 10
+params: {'NonbondedForce': {'epsilon': Array([0.98179924], dtype=float32), 'sigma': Array([0.33971387], dtype=float32)}}
+Loss: 0.033623774
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.5721014], dtype=float32), 'sigma': Array([-28.7333], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.03939915], dtype=float32), 'sigma': Array([0.9756384], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.61150056], dtype=float32), 'sigma': Array([-27.75766], dtype=float32)}}
+Effective sample sizes:
+loop-9: 98
+Total: 99.99999780030518
+Add loop-10
+LOOP: 11
+params: {'NonbondedForce': {'epsilon': Array([0.99094033], dtype=float32), 'sigma': Array([0.33989257], dtype=float32)}}
+Loss: 0.0027066327
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.16545036], dtype=float32), 'sigma': Array([8.101083], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.05326366], dtype=float32), 'sigma': Array([3.786283], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.21871403], dtype=float32), 'sigma': Array([11.887365], dtype=float32)}}
+Effective sample sizes:
+loop-10: 98
+Total: 99.99999839167116
+Add loop-11
+LOOP: 12
+params: {'NonbondedForce': {'epsilon': Array([0.9987929], dtype=float32), 'sigma': Array([0.34004542], dtype=float32)}}
+Loss: 0.0010855003
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.08801268], dtype=float32), 'sigma': Array([4.5003514], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.0170387], dtype=float32), 'sigma': Array([0.2917973], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.10505138], dtype=float32), 'sigma': Array([4.7921486], dtype=float32)}}
+Effective sample sizes:
+loop-11: 98
+Total: 99.99999816220561
+Add loop-12
+LOOP: 13
+params: {'NonbondedForce': {'epsilon': Array([1.0056956], dtype=float32), 'sigma': Array([0.34018], dtype=float32)}}
+Loss: 0.0008916652
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.08881804], dtype=float32), 'sigma': Array([-4.498929], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.0126563], dtype=float32), 'sigma': Array([-0.59987897], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.10147434], dtype=float32), 'sigma': Array([-5.098808], dtype=float32)}}
+Effective sample sizes:
+loop-12: 98
+Total: 99.99999815256675
+Add loop-13
+LOOP: 14
+params: {'NonbondedForce': {'epsilon': Array([1.0120643], dtype=float32), 'sigma': Array([0.34030426], dtype=float32)}}
+Loss: 0.012323669
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.2996086], dtype=float32), 'sigma': Array([14.527782], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.05187845], dtype=float32), 'sigma': Array([-5.1520567], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.24773014], dtype=float32), 'sigma': Array([9.375726], dtype=float32)}}
+Effective sample sizes:
+loop-13: 98
+Total: 99.99999830929875
+Add loop-14
+LOOP: 15
+params: {'NonbondedForce': {'epsilon': Array([1.0174375], dtype=float32), 'sigma': Array([0.34041086], dtype=float32)}}
+Loss: 0.003363646
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.18069822], dtype=float32), 'sigma': Array([8.907455], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.0103888], dtype=float32), 'sigma': Array([-0.93852097], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.17030942], dtype=float32), 'sigma': Array([7.9689345], dtype=float32)}}
+Effective sample sizes:
+loop-14: 98
+Total: 99.99999744226797
+Add loop-15
+LOOP: 16
+params: {'NonbondedForce': {'epsilon': Array([1.022042], dtype=float32), 'sigma': Array([0.3405026], dtype=float32)}}
+Loss: 0.021967301
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.46103358], dtype=float32), 'sigma': Array([24.504719], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.22417784], dtype=float32), 'sigma': Array([10.257262], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.6852114], dtype=float32), 'sigma': Array([34.761982], dtype=float32)}}
+Effective sample sizes:
+loop-15: 98
+Total: 99.99999791941214
+Add loop-16
+LOOP: 17
+params: {'NonbondedForce': {'epsilon': Array([1.0251303], dtype=float32), 'sigma': Array([0.34056398], dtype=float32)}}
+Loss: 0.016114168
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.35734522], dtype=float32), 'sigma': Array([18.032984], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.18560982], dtype=float32), 'sigma': Array([15.177862], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.54295504], dtype=float32), 'sigma': Array([33.210846], dtype=float32)}}
+Effective sample sizes:
+loop-16: 98
+Total: 99.99999804236104
+Add loop-17
+LOOP: 18
+params: {'NonbondedForce': {'epsilon': Array([1.02711], dtype=float32), 'sigma': Array([0.34059975], dtype=float32)}}
+Loss: 0.010511017
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.2973736], dtype=float32), 'sigma': Array([15.397774], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.23130894], dtype=float32), 'sigma': Array([13.642179], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.52868253], dtype=float32), 'sigma': Array([29.039951], dtype=float32)}}
+Effective sample sizes:
+loop-17: 98
+Total: 99.99999805486871
+Add loop-18
+LOOP: 19
+params: {'NonbondedForce': {'epsilon': Array([1.0281231], dtype=float32), 'sigma': Array([0.34061533], dtype=float32)}}
+Loss: 0.012928866
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.36880738], dtype=float32), 'sigma': Array([18.667187], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.32479334], dtype=float32), 'sigma': Array([13.357328], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.6936007], dtype=float32), 'sigma': Array([32.024513], dtype=float32)}}
+Effective sample sizes:
+loop-18: 98
+Total: 99.99999827353115
+Add loop-19
+LOOP: 20
+params: {'NonbondedForce': {'epsilon': Array([1.0280344], dtype=float32), 'sigma': Array([0.34061128], dtype=float32)}}
+Loss: 0.024447277
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.4178258], dtype=float32), 'sigma': Array([23.38417], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.24202374], dtype=float32), 'sigma': Array([-19.95122], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.17580205], dtype=float32), 'sigma': Array([3.432951], dtype=float32)}}
+Effective sample sizes:
+loop-19: 98
+Total: 99.99999815262922
+Add loop-20
+LOOP: 21
+params: {'NonbondedForce': {'epsilon': Array([1.0277003], dtype=float32), 'sigma': Array([0.34060562], dtype=float32)}}
+Loss: 0.031930726
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.47115928], dtype=float32), 'sigma': Array([24.09049], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.01838923], dtype=float32), 'sigma': Array([4.4427814], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.4895485], dtype=float32), 'sigma': Array([28.533272], dtype=float32)}}
+Effective sample sizes:
+loop-20: 98
+Total: 99.99999806197157
+Add loop-21
+LOOP: 22
+params: {'NonbondedForce': {'epsilon': Array([1.0266923], dtype=float32), 'sigma': Array([0.34058437], dtype=float32)}}
+Loss: 0.01635577
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.31094572], dtype=float32), 'sigma': Array([15.145], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.5533581], dtype=float32), 'sigma': Array([-28.142168], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.24241236], dtype=float32), 'sigma': Array([-12.997168], dtype=float32)}}
+Effective sample sizes:
+loop-21: 98
+Total: 99.9999318196369
+Add loop-22
+LOOP: 23
+params: {'NonbondedForce': {'epsilon': Array([1.0261301], dtype=float32), 'sigma': Array([0.3405725], dtype=float32)}}
+Loss: 0.009295795
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.27472982], dtype=float32), 'sigma': Array([14.035183], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.11529183], dtype=float32), 'sigma': Array([-6.8834224], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.15943798], dtype=float32), 'sigma': Array([7.1517606], dtype=float32)}}
+Effective sample sizes:
+loop-22: 98
+Total: 99.99993075639739
+Add loop-23
+LOOP: 24
+params: {'NonbondedForce': {'epsilon': Array([1.025384], dtype=float32), 'sigma': Array([0.34055758], dtype=float32)}}
+Loss: 0.00021529656
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.04106344], dtype=float32), 'sigma': Array([2.0924375], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.0009139], dtype=float32), 'sigma': Array([-0.695453], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.04014954], dtype=float32), 'sigma': Array([1.3969846], dtype=float32)}}
+Effective sample sizes:
+loop-23: 98
+Total: 99.99999771379998
+Add loop-24
+LOOP: 25
+params: {'NonbondedForce': {'epsilon': Array([1.0246446], dtype=float32), 'sigma': Array([0.34054315], dtype=float32)}}
+Loss: 0.0046108123
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.17016895], dtype=float32), 'sigma': Array([9.130356], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.03277922], dtype=float32), 'sigma': Array([1.7155123], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.20294817], dtype=float32), 'sigma': Array([10.845868], dtype=float32)}}
+Effective sample sizes:
+loop-24: 98
+Total: 99.99999780393533
+Add loop-25
+LOOP: 26
+params: {'NonbondedForce': {'epsilon': Array([1.0236667], dtype=float32), 'sigma': Array([0.34052363], dtype=float32)}}
+Loss: 0.008737442
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.28383964], dtype=float32), 'sigma': Array([15.8380375], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.03764915], dtype=float32), 'sigma': Array([4.553984], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.24619049], dtype=float32), 'sigma': Array([20.392021], dtype=float32)}}
+Effective sample sizes:
+loop-25: 98
+Total: 99.99999779253794
+Add loop-26
+LOOP: 27
+params: {'NonbondedForce': {'epsilon': Array([1.0224036], dtype=float32), 'sigma': Array([0.34049383], dtype=float32)}}
+Loss: 0.00220573
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.13129745], dtype=float32), 'sigma': Array([7.613885], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.09682673], dtype=float32), 'sigma': Array([-4.953853], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.03447072], dtype=float32), 'sigma': Array([2.6600318], dtype=float32)}}
+Effective sample sizes:
+loop-26: 98
+Total: 99.99999832022905
+Add loop-27
+LOOP: 28
+params: {'NonbondedForce': {'epsilon': Array([1.0211998], dtype=float32), 'sigma': Array([0.3404651], dtype=float32)}}
+Loss: 0.001683031
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.11994307], dtype=float32), 'sigma': Array([-6.1544833], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.02784178], dtype=float32), 'sigma': Array([-1.9972402], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.14778486], dtype=float32), 'sigma': Array([-8.151724], dtype=float32)}}
+Effective sample sizes:
+loop-27: 98
+Total: 99.9999980357574
+Add loop-28
+LOOP: 29
+params: {'NonbondedForce': {'epsilon': Array([1.0203341], dtype=float32), 'sigma': Array([0.3404439], dtype=float32)}}
+Loss: 0.037389632
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.5371388], dtype=float32), 'sigma': Array([26.78604], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.1593113], dtype=float32), 'sigma': Array([7.6907315], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.6964501], dtype=float32), 'sigma': Array([34.476772], dtype=float32)}}
+Effective sample sizes:
+loop-28: 98
+Total: 99.99993245247818
+Add loop-29
+LOOP: 30
+params: {'NonbondedForce': {'epsilon': Array([1.0184828], dtype=float32), 'sigma': Array([0.34040406], dtype=float32)}}
+Loss: 0.004220586
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.1815992], dtype=float32), 'sigma': Array([11.245209], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.16376942], dtype=float32), 'sigma': Array([7.1666656], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.34536862], dtype=float32), 'sigma': Array([18.411875], dtype=float32)}}
+Effective sample sizes:
+loop-29: 98
+Total: 99.99999832176269
+Add loop-30
+LOOP: 31
+params: {'NonbondedForce': {'epsilon': Array([1.0162653], dtype=float32), 'sigma': Array([0.3403567], dtype=float32)}}
+Loss: 0.0027710167
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.16762507], dtype=float32), 'sigma': Array([9.919182], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.06523679], dtype=float32), 'sigma': Array([3.9599187], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.23286186], dtype=float32), 'sigma': Array([13.879101], dtype=float32)}}
+Effective sample sizes:
+loop-30: 98
+Total: 99.9999981291847
+Add loop-31
+LOOP: 32
+params: {'NonbondedForce': {'epsilon': Array([1.0138824], dtype=float32), 'sigma': Array([0.34030512], dtype=float32)}}
+Loss: 7.175127e-05
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.0213883], dtype=float32), 'sigma': Array([1.1495469], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.00590045], dtype=float32), 'sigma': Array([0.49462697], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.02728876], dtype=float32), 'sigma': Array([1.6441739], dtype=float32)}}
+Effective sample sizes:
+loop-31: 98
+Total: 99.99993242715608
+Add loop-32
+LOOP: 33
+params: {'NonbondedForce': {'epsilon': Array([1.0116682], dtype=float32), 'sigma': Array([0.3402571], dtype=float32)}}
+Loss: 0.008375381
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.24914698], dtype=float32), 'sigma': Array([12.635129], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.08773285], dtype=float32), 'sigma': Array([6.5111127], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.33687985], dtype=float32), 'sigma': Array([19.146242], dtype=float32)}}
+Effective sample sizes:
+loop-32: 98
+Total: 99.999940289505
+Add loop-33
+LOOP: 34
+params: {'NonbondedForce': {'epsilon': Array([1.0091186], dtype=float32), 'sigma': Array([0.3402016], dtype=float32)}}
+Loss: 0.00046361465
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.06312509], dtype=float32), 'sigma': Array([-3.2677505], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.06255412], dtype=float32), 'sigma': Array([-3.436824], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.12567921], dtype=float32), 'sigma': Array([-6.7045746], dtype=float32)}}
+Effective sample sizes:
+loop-33: 99
+Total: 99.99999769970972
+Add loop-34
+LOOP: 35
+params: {'NonbondedForce': {'epsilon': Array([1.0070019], dtype=float32), 'sigma': Array([0.3401553], dtype=float32)}}
+Loss: 0.003777827
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.18675531], dtype=float32), 'sigma': Array([-9.490418], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.16825181], dtype=float32), 'sigma': Array([-8.844356], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.3550071], dtype=float32), 'sigma': Array([-18.334774], dtype=float32)}}
+Effective sample sizes:
+loop-34: 98
+Total: 99.99999834399932
+Add loop-35
+LOOP: 36
+params: {'NonbondedForce': {'epsilon': Array([1.0056641], dtype=float32), 'sigma': Array([0.34012508], dtype=float32)}}
+Loss: 0.0027718013
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.14388944], dtype=float32), 'sigma': Array([7.320254], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.00077736], dtype=float32), 'sigma': Array([2.060086], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.1446668], dtype=float32), 'sigma': Array([9.38034], dtype=float32)}}
+Effective sample sizes:
+loop-35: 99
+Total: 99.99999793824655
+Add loop-36
+LOOP: 37
+params: {'NonbondedForce': {'epsilon': Array([1.0042074], dtype=float32), 'sigma': Array([0.34009153], dtype=float32)}}
+Loss: 0.0004901737
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.06268145], dtype=float32), 'sigma': Array([-3.4335241], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.00417429], dtype=float32), 'sigma': Array([0.3465015], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.06685574], dtype=float32), 'sigma': Array([-3.0870225], dtype=float32)}}
+Effective sample sizes:
+loop-36: 98
+Total: 99.99993754957428
+Add loop-37
+LOOP: 38
+params: {'NonbondedForce': {'epsilon': Array([1.0029931], dtype=float32), 'sigma': Array([0.340063], dtype=float32)}}
+Loss: 2.5468215e-05
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.0166423], dtype=float32), 'sigma': Array([0.859137], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.00876888], dtype=float32), 'sigma': Array([0.5881985], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.02541118], dtype=float32), 'sigma': Array([1.4473355], dtype=float32)}}
+Effective sample sizes:
+loop-37: 98
+Total: 99.99993833086036
+Add loop-38
+LOOP: 39
+params: {'NonbondedForce': {'epsilon': Array([1.0018446], dtype=float32), 'sigma': Array([0.34003606], dtype=float32)}}
+Loss: 0.00034306978
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.04519704], dtype=float32), 'sigma': Array([-2.3408196], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.03191429], dtype=float32), 'sigma': Array([1.36928], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.01328275], dtype=float32), 'sigma': Array([-0.9715396], dtype=float32)}}
+Effective sample sizes:
+loop-38: 98
+Total: 99.99999834841626
+Add loop-39
+LOOP: 40
+params: {'NonbondedForce': {'epsilon': Array([1.000822], dtype=float32), 'sigma': Array([0.3400122], dtype=float32)}}
+Loss: 0.00046583315
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.0541972], dtype=float32), 'sigma': Array([2.4134915], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.06603348], dtype=float32), 'sigma': Array([2.841151], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.12023069], dtype=float32), 'sigma': Array([5.2546425], dtype=float32)}}
+Effective sample sizes:
+loop-39: 98
+Total: 99.99993497883206
+Add loop-40
+LOOP: 41
+params: {'NonbondedForce': {'epsilon': Array([0.9996835], dtype=float32), 'sigma': Array([0.33998692], dtype=float32)}}
+Loss: 4.329369e-07
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.00197288], dtype=float32), 'sigma': Array([0.10869833], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.00064105], dtype=float32), 'sigma': Array([-0.02513696], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.00133183], dtype=float32), 'sigma': Array([0.08356137], dtype=float32)}}
+Effective sample sizes:
+loop-40: 98
+Total: 99.9999981054899
+Add loop-41
+LOOP: 42
+params: {'NonbondedForce': {'epsilon': Array([0.9986451], dtype=float32), 'sigma': Array([0.33996388], dtype=float32)}}
+Loss: 0.0010641733
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.09344602], dtype=float32), 'sigma': Array([4.696748], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.04319564], dtype=float32), 'sigma': Array([1.2234726], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.13664165], dtype=float32), 'sigma': Array([5.9202204], dtype=float32)}}
+Effective sample sizes:
+loop-41: 98
+Total: 99.99999805938668
+Add loop-42
+LOOP: 43
+params: {'NonbondedForce': {'epsilon': Array([0.9974594], dtype=float32), 'sigma': Array([0.33993882], dtype=float32)}}
+Loss: 0.007913663
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.24355468], dtype=float32), 'sigma': Array([-11.785599], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.19991398], dtype=float32), 'sigma': Array([14.160782], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.0436407], dtype=float32), 'sigma': Array([2.375183], dtype=float32)}}
+Effective sample sizes:
+loop-42: 98
+Total: 99.99999799484304
+Add loop-43
+LOOP: 44
+params: {'NonbondedForce': {'epsilon': Array([0.9964587], dtype=float32), 'sigma': Array([0.33991438], dtype=float32)}}
+Loss: 0.00081475265
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.08486432], dtype=float32), 'sigma': Array([4.4585333], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.09451711], dtype=float32), 'sigma': Array([5.947387], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.17938143], dtype=float32), 'sigma': Array([10.40592], dtype=float32)}}
+Effective sample sizes:
+loop-43: 98
+Total: 99.99999791417679
+Add loop-44
+LOOP: 45
+params: {'NonbondedForce': {'epsilon': Array([0.9952259], dtype=float32), 'sigma': Array([0.33988485], dtype=float32)}}
+Loss: 0.0012353081
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.09990677], dtype=float32), 'sigma': Array([4.793934], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.01182815], dtype=float32), 'sigma': Array([-1.315312], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.08807862], dtype=float32), 'sigma': Array([3.478622], dtype=float32)}}
+Effective sample sizes:
+loop-44: 98
+Total: 99.99993563378912
+Add loop-45
+LOOP: 46
+params: {'NonbondedForce': {'epsilon': Array([0.99394447], dtype=float32), 'sigma': Array([0.33985552], dtype=float32)}}
+Loss: 0.00031123348
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.05058319], dtype=float32), 'sigma': Array([2.5148406], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.05737698], dtype=float32), 'sigma': Array([2.8956773], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.10796018], dtype=float32), 'sigma': Array([5.4105177], dtype=float32)}}
+Effective sample sizes:
+loop-45: 98
+Total: 99.99999808593195
+Add loop-46
+LOOP: 47
+params: {'NonbondedForce': {'epsilon': Array([0.99258095], dtype=float32), 'sigma': Array([0.33982497], dtype=float32)}}
+Loss: 0.024238182
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.47177747], dtype=float32), 'sigma': Array([-23.404741], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.6172638], dtype=float32), 'sigma': Array([37.32769], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.14548633], dtype=float32), 'sigma': Array([13.922949], dtype=float32)}}
+Effective sample sizes:
+loop-46: 98
+Total: 99.99999841512631
+Add loop-47
+LOOP: 48
+params: {'NonbondedForce': {'epsilon': Array([0.9910718], dtype=float32), 'sigma': Array([0.3397872], dtype=float32)}}
+Loss: 0.0069594337
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.25441074], dtype=float32), 'sigma': Array([-12.985099], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.0127911], dtype=float32), 'sigma': Array([-0.78642905], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.26720184], dtype=float32), 'sigma': Array([-13.771528], dtype=float32)}}
+Effective sample sizes:
+loop-47: 98
+Total: 99.99999839570934
+Add loop-48
+LOOP: 49
+params: {'NonbondedForce': {'epsilon': Array([0.99020374], dtype=float32), 'sigma': Array([0.339763], dtype=float32)}}
+Loss: 0.010338619
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.34809098], dtype=float32), 'sigma': Array([-17.216288], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.47458115], dtype=float32), 'sigma': Array([24.944437], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.12649018], dtype=float32), 'sigma': Array([7.7281494], dtype=float32)}}
+Effective sample sizes:
+loop-48: 98
+Total: 99.99999809249435
+Add loop-49
+LOOP: 50
+params: {'NonbondedForce': {'epsilon': Array([0.9891761], dtype=float32), 'sigma': Array([0.3397353], dtype=float32)}}
+Loss: 0.0032909354
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.17915437], dtype=float32), 'sigma': Array([-9.077949], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.02109805], dtype=float32), 'sigma': Array([0.46845925], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.20025241], dtype=float32), 'sigma': Array([-8.609489], dtype=float32)}}
+Effective sample sizes:
+loop-49: 98
+Total: 99.99999801166486
+Add loop-50
+LOOP: 51
+params: {'NonbondedForce': {'epsilon': Array([0.98862505], dtype=float32), 'sigma': Array([0.33971655], dtype=float32)}}
+Loss: 0.0012600956
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.09370031], dtype=float32), 'sigma': Array([4.6824574], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.11945462], dtype=float32), 'sigma': Array([6.004463], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.21315494], dtype=float32), 'sigma': Array([10.68692], dtype=float32)}}
+Effective sample sizes:
+loop-50: 98
+Total: 99.99999816687884
+Add loop-51
+LOOP: 52
+params: {'NonbondedForce': {'epsilon': Array([0.9877158], dtype=float32), 'sigma': Array([0.33969155], dtype=float32)}}
+Loss: 0.022830749
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.46388], dtype=float32), 'sigma': Array([-24.145319], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.3079574], dtype=float32), 'sigma': Array([-15.782], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.7718374], dtype=float32), 'sigma': Array([-39.92732], dtype=float32)}}
+Effective sample sizes:
+loop-51: 98
+Total: 99.99999793552432
+Add loop-52
+LOOP: 53
+params: {'NonbondedForce': {'epsilon': Array([0.9883719], dtype=float32), 'sigma': Array([0.33969885], dtype=float32)}}
+Loss: 0.021206735
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.48850217], dtype=float32), 'sigma': Array([-25.679476], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.02652812], dtype=float32), 'sigma': Array([6.2914343], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.46197405], dtype=float32), 'sigma': Array([-19.388042], dtype=float32)}}
+Effective sample sizes:
+loop-52: 98
+Total: 99.99993865695173
+Add loop-53
+LOOP: 54
+params: {'NonbondedForce': {'epsilon': Array([0.9898419], dtype=float32), 'sigma': Array([0.33971986], dtype=float32)}}
+Loss: 0.004253443
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.22768451], dtype=float32), 'sigma': Array([-11.705439], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.07989109], dtype=float32), 'sigma': Array([-3.9184625], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.30757558], dtype=float32), 'sigma': Array([-15.623901], dtype=float32)}}
+Effective sample sizes:
+loop-53: 98
+Total: 99.99999791475663
+Add loop-54
+LOOP: 55
+params: {'NonbondedForce': {'epsilon': Array([0.99176097], dtype=float32), 'sigma': Array([0.33975056], dtype=float32)}}
+Loss: 0.0029004496
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.14764413], dtype=float32), 'sigma': Array([-6.8120103], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.17295313], dtype=float32), 'sigma': Array([-10.53611], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.32059726], dtype=float32), 'sigma': Array([-17.34812], dtype=float32)}}
+Effective sample sizes:
+loop-54: 98
+Total: 99.99999804284458
+Add loop-55
+LOOP: 56
+params: {'NonbondedForce': {'epsilon': Array([0.9941143], dtype=float32), 'sigma': Array([0.33979136], dtype=float32)}}
+Loss: 0.001288838
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.10158785], dtype=float32), 'sigma': Array([-5.422156], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.02914008], dtype=float32), 'sigma': Array([1.27257], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.07244777], dtype=float32), 'sigma': Array([-4.1495857], dtype=float32)}}
+Effective sample sizes:
+loop-55: 98
+Total: 99.99999791907709
+Add loop-56
+LOOP: 57
+params: {'NonbondedForce': {'epsilon': Array([0.9963915], dtype=float32), 'sigma': Array([0.33983153], dtype=float32)}}
+Loss: 0.015463723
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.3464185], dtype=float32), 'sigma': Array([-18.623217], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.2206892], dtype=float32), 'sigma': Array([-15.739311], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.5671077], dtype=float32), 'sigma': Array([-34.362526], dtype=float32)}}
+Effective sample sizes:
+loop-56: 98
+Total: 99.99999830939892
+Add loop-57
+LOOP: 58
+params: {'NonbondedForce': {'epsilon': Array([0.9995345], dtype=float32), 'sigma': Array([0.3398933], dtype=float32)}}
+Loss: 0.008138306
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.21432208], dtype=float32), 'sigma': Array([11.637066], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.05772179], dtype=float32), 'sigma': Array([7.734083], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.27204388], dtype=float32), 'sigma': Array([19.37115], dtype=float32)}}
+Effective sample sizes:
+loop-57: 98
+Total: 99.99999825010204
+Add loop-58
+LOOP: 59
+params: {'NonbondedForce': {'epsilon': Array([1.0018508], dtype=float32), 'sigma': Array([0.3399345], dtype=float32)}}
+Loss: 0.005277638
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.17636238], dtype=float32), 'sigma': Array([9.272758], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.04049334], dtype=float32), 'sigma': Array([3.4353569], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.21685572], dtype=float32), 'sigma': Array([12.708115], dtype=float32)}}
+Effective sample sizes:
+loop-58: 98
+Total: 99.99999833130263
+Add loop-59
+LOOP: 60
+params: {'NonbondedForce': {'epsilon': Array([1.0035248], dtype=float32), 'sigma': Array([0.33996215], dtype=float32)}}
+Loss: 0.0010192081
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.08212586], dtype=float32), 'sigma': Array([-4.275435], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.01833385], dtype=float32), 'sigma': Array([-0.596249], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.10045971], dtype=float32), 'sigma': Array([-4.871684], dtype=float32)}}
+Effective sample sizes:
+loop-59: 98
+Total: 99.99999803395899
+Add loop-60
+LOOP: 61
+params: {'NonbondedForce': {'epsilon': Array([1.0052422], dtype=float32), 'sigma': Array([0.33999097], dtype=float32)}}
+Loss: 5.31091e-09
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.00024185], dtype=float32), 'sigma': Array([-0.01184848], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-2.4685462e-05], dtype=float32), 'sigma': Array([-0.00232672], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.00026653], dtype=float32), 'sigma': Array([-0.01417519], dtype=float32)}}
+Effective sample sizes:
+loop-60: 98
+Total: 99.99999830102831
+Add loop-61
+LOOP: 62
+params: {'NonbondedForce': {'epsilon': Array([1.0068015], dtype=float32), 'sigma': Array([0.34001714], dtype=float32)}}
+Loss: 0.0001352706
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.03461222], dtype=float32), 'sigma': Array([-1.7992071], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.04094605], dtype=float32), 'sigma': Array([-1.7320126], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.07555827], dtype=float32), 'sigma': Array([-3.5312197], dtype=float32)}}
+Effective sample sizes:
+loop-61: 98
+Total: 99.99993537240401
+Add loop-62
+LOOP: 63
+params: {'NonbondedForce': {'epsilon': Array([1.008368], dtype=float32), 'sigma': Array([0.34004363], dtype=float32)}}
+Loss: 0.00052828004
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.06657734], dtype=float32), 'sigma': Array([-3.6339662], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.01315099], dtype=float32), 'sigma': Array([-1.3790438], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.07972833], dtype=float32), 'sigma': Array([-5.01301], dtype=float32)}}
+Effective sample sizes:
+loop-62: 98
+Total: 99.99993570666219
+Add loop-63
+LOOP: 64
+params: {'NonbondedForce': {'epsilon': Array([1.0099505], dtype=float32), 'sigma': Array([0.34007162], dtype=float32)}}
+Loss: 0.00019428568
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.03548809], dtype=float32), 'sigma': Array([1.9027591], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.01315551], dtype=float32), 'sigma': Array([0.86636746], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.0486436], dtype=float32), 'sigma': Array([2.7691264], dtype=float32)}}
+Effective sample sizes:
+loop-63: 98
+Total: 99.9999984202126
+Add loop-64
+LOOP: 65
+params: {'NonbondedForce': {'epsilon': Array([1.0112867], dtype=float32), 'sigma': Array([0.3400948], dtype=float32)}}
+Loss: 0.0008854882
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.08412871], dtype=float32), 'sigma': Array([4.6885014], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.00988926], dtype=float32), 'sigma': Array([-0.43321884], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.07423945], dtype=float32), 'sigma': Array([4.2552824], dtype=float32)}}
+Effective sample sizes:
+loop-64: 98
+Total: 99.99999815438241
+Add loop-65
+LOOP: 66
+params: {'NonbondedForce': {'epsilon': Array([1.0123459], dtype=float32), 'sigma': Array([0.34011242], dtype=float32)}}
+Loss: 0.00083114335
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.07827251], dtype=float32), 'sigma': Array([4.120254], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.03186095], dtype=float32), 'sigma': Array([1.2413223], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.11013345], dtype=float32), 'sigma': Array([5.361576], dtype=float32)}}
+Effective sample sizes:
+loop-65: 98
+Total: 99.99999803041146
+Add loop-66
+LOOP: 67
+params: {'NonbondedForce': {'epsilon': Array([1.0130779], dtype=float32), 'sigma': Array([0.3401241], dtype=float32)}}
+Loss: 0.00046757347
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.07739338], dtype=float32), 'sigma': Array([-4.286519], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.02192664], dtype=float32), 'sigma': Array([0.39086372], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.05546673], dtype=float32), 'sigma': Array([-3.8956554], dtype=float32)}}
+Effective sample sizes:
+loop-66: 98
+Total: 99.99999870615379
+Add loop-67
+LOOP: 68
+params: {'NonbondedForce': {'epsilon': Array([1.0138575], dtype=float32), 'sigma': Array([0.34013784], dtype=float32)}}
+Loss: 0.0027737138
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.16956037], dtype=float32), 'sigma': Array([8.5286], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.11187184], dtype=float32), 'sigma': Array([6.2086], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.2814322], dtype=float32), 'sigma': Array([14.7372], dtype=float32)}}
+Effective sample sizes:
+loop-67: 98
+Total: 99.99999808585571
+Add loop-68
+LOOP: 69
+params: {'NonbondedForce': {'epsilon': Array([1.0139718], dtype=float32), 'sigma': Array([0.34013826], dtype=float32)}}
+Loss: 0.005929736
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.23556823], dtype=float32), 'sigma': Array([13.8763], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.0690192], dtype=float32), 'sigma': Array([-0.7512107], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.30458742], dtype=float32), 'sigma': Array([13.12509], dtype=float32)}}
+Effective sample sizes:
+loop-68: 98
+Total: 99.99999812909667
+Add loop-69
+LOOP: 70
+params: {'NonbondedForce': {'epsilon': Array([1.013433], dtype=float32), 'sigma': Array([0.34012792], dtype=float32)}}
+Loss: 0.00090798014
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.08668882], dtype=float32), 'sigma': Array([4.554347], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.09288263], dtype=float32), 'sigma': Array([6.3033547], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.17957145], dtype=float32), 'sigma': Array([10.857702], dtype=float32)}}
+Effective sample sizes:
+loop-69: 98
+Total: 99.99999791950123
+Add loop-70
+LOOP: 71
+params: {'NonbondedForce': {'epsilon': Array([1.012564], dtype=float32), 'sigma': Array([0.34010962], dtype=float32)}}
+Loss: 0.0062016845
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.24265124], dtype=float32), 'sigma': Array([12.479079], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.11244702], dtype=float32), 'sigma': Array([5.302781], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.35509825], dtype=float32), 'sigma': Array([17.78186], dtype=float32)}}
+Effective sample sizes:
+loop-70: 98
+Total: 99.9999348626585
+Add loop-71
+LOOP: 72
+params: {'NonbondedForce': {'epsilon': Array([1.0110236], dtype=float32), 'sigma': Array([0.3400784], dtype=float32)}}
+Loss: 0.0023399144
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.14988329], dtype=float32), 'sigma': Array([7.9363747], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.06930265], dtype=float32), 'sigma': Array([4.037072], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.21918593], dtype=float32), 'sigma': Array([11.973447], dtype=float32)}}
+Effective sample sizes:
+loop-71: 98
+Total: 99.99999843873434
+Add loop-72
+LOOP: 73
+params: {'NonbondedForce': {'epsilon': Array([1.0091605], dtype=float32), 'sigma': Array([0.34004024], dtype=float32)}}
+Loss: 0.01176912
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.3149866], dtype=float32), 'sigma': Array([17.160532], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.23638391], dtype=float32), 'sigma': Array([11.953471], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.5513705], dtype=float32), 'sigma': Array([29.114002], dtype=float32)}}
+Effective sample sizes:
+loop-72: 98
+Total: 99.99999817690406
+Add loop-73
+LOOP: 74
+params: {'NonbondedForce': {'epsilon': Array([1.0063118], dtype=float32), 'sigma': Array([0.3399819], dtype=float32)}}
+Loss: 0.001577843
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.12241109], dtype=float32), 'sigma': Array([6.6377087], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.16904451], dtype=float32), 'sigma': Array([8.988887], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.2914556], dtype=float32), 'sigma': Array([15.6265955], dtype=float32)}}
+Effective sample sizes:
+loop-73: 98
+Total: 99.99999829264014
+Add loop-74
+LOOP: 75
+params: {'NonbondedForce': {'epsilon': Array([1.0031122], dtype=float32), 'sigma': Array([0.33991623], dtype=float32)}}
+Loss: 1.550861e-05
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.01099849], dtype=float32), 'sigma': Array([0.60486925], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.00046321], dtype=float32), 'sigma': Array([0.05694451], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.0114617], dtype=float32), 'sigma': Array([0.66181374], dtype=float32)}}
+Effective sample sizes:
+loop-74: 99
+Total: 99.99999817695038
+Add loop-75
+LOOP: 76
+params: {'NonbondedForce': {'epsilon': Array([1.0001879], dtype=float32), 'sigma': Array([0.33985615], dtype=float32)}}
+Loss: 1.0274457e-05
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.0094101], dtype=float32), 'sigma': Array([0.5122635], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.00103632], dtype=float32), 'sigma': Array([0.12368947], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.01044641], dtype=float32), 'sigma': Array([0.63595295], dtype=float32)}}
+Effective sample sizes:
+loop-75: 98
+Total: 99.99999735590576
+Add loop-76
+LOOP: 77
+params: {'NonbondedForce': {'epsilon': Array([0.9975153], dtype=float32), 'sigma': Array([0.33980116], dtype=float32)}}
+Loss: 0.009663884
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.31978202], dtype=float32), 'sigma': Array([-16.175014], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.3157935], dtype=float32), 'sigma': Array([-19.014967], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.63557553], dtype=float32), 'sigma': Array([-35.18998], dtype=float32)}}
+Effective sample sizes:
+loop-76: 98
+Total: 99.99999795215099
+Add loop-77
+LOOP: 78
+params: {'NonbondedForce': {'epsilon': Array([0.99649733], dtype=float32), 'sigma': Array([0.33978146], dtype=float32)}}
+Loss: 0.0017197166
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.13087097], dtype=float32), 'sigma': Array([-6.1928883], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.13028622], dtype=float32), 'sigma': Array([-8.446862], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.26115718], dtype=float32), 'sigma': Array([-14.6397505], dtype=float32)}}
+Effective sample sizes:
+loop-77: 98
+Total: 99.99999785195415
+Add loop-78
+LOOP: 79
+params: {'NonbondedForce': {'epsilon': Array([0.9961435], dtype=float32), 'sigma': Array([0.33977595], dtype=float32)}}
+Loss: 0.0006542856
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.07570887], dtype=float32), 'sigma': Array([3.753009], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.02620846], dtype=float32), 'sigma': Array([1.7937183], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.10191733], dtype=float32), 'sigma': Array([5.546727], dtype=float32)}}
+Effective sample sizes:
+loop-78: 98
+Total: 99.99999830029009
+Add loop-79
+LOOP: 80
+params: {'NonbondedForce': {'epsilon': Array([0.9956006], dtype=float32), 'sigma': Array([0.33976626], dtype=float32)}}
+Loss: 0.00015111195
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.03267765], dtype=float32), 'sigma': Array([1.7051134], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.05470184], dtype=float32), 'sigma': Array([-2.5927804], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.02202419], dtype=float32), 'sigma': Array([-0.88766694], dtype=float32)}}
+Effective sample sizes:
+loop-79: 98
+Total: 99.99999806218251
+Add loop-80
+LOOP: 81
+params: {'NonbondedForce': {'epsilon': Array([0.9951572], dtype=float32), 'sigma': Array([0.33975825], dtype=float32)}}
+Loss: 0.008140701
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.29880592], dtype=float32), 'sigma': Array([-15.943956], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.04625225], dtype=float32), 'sigma': Array([3.4113147], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.34505817], dtype=float32), 'sigma': Array([-12.532641], dtype=float32)}}
+Effective sample sizes:
+loop-80: 98
+Total: 99.99999815313849
+Add loop-81
+LOOP: 82
+params: {'NonbondedForce': {'epsilon': Array([0.99551725], dtype=float32), 'sigma': Array([0.3397617], dtype=float32)}}
+Loss: 0.002415685
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.1763566], dtype=float32), 'sigma': Array([-9.025691], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.11976928], dtype=float32), 'sigma': Array([-4.703452], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.2961259], dtype=float32), 'sigma': Array([-13.729143], dtype=float32)}}
+Effective sample sizes:
+loop-81: 98
+Total: 99.99999803518826
+Add loop-82
+LOOP: 83
+params: {'NonbondedForce': {'epsilon': Array([0.9964973], dtype=float32), 'sigma': Array([0.3397766], dtype=float32)}}
+Loss: 0.0022049646
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.1567111], dtype=float32), 'sigma': Array([-8.116027], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.15180117], dtype=float32), 'sigma': Array([-8.949481], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.30851227], dtype=float32), 'sigma': Array([-17.065508], dtype=float32)}}
+Effective sample sizes:
+loop-82: 98
+Total: 99.9999980428438
+Add loop-83
+LOOP: 84
+params: {'NonbondedForce': {'epsilon': Array([0.9980667], dtype=float32), 'sigma': Array([0.3398047], dtype=float32)}}
+Loss: 0.0010864672
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.08675316], dtype=float32), 'sigma': Array([-4.244764], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.00579244], dtype=float32), 'sigma': Array([0.6319422], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.0925456], dtype=float32), 'sigma': Array([-3.6128216], dtype=float32)}}
+Effective sample sizes:
+loop-83: 98
+Total: 99.9999983005848
+Add loop-84
+LOOP: 85
+params: {'NonbondedForce': {'epsilon': Array([0.99969417], dtype=float32), 'sigma': Array([0.3398333], dtype=float32)}}
+Loss: 9.1657375e-06
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.00969869], dtype=float32), 'sigma': Array([-0.52943313], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.01103005], dtype=float32), 'sigma': Array([-0.53597015], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.02072874], dtype=float32), 'sigma': Array([-1.0654032], dtype=float32)}}
+Effective sample sizes:
+loop-84: 98
+Total: 99.99999799484301
+Add loop-85
+LOOP: 86
+params: {'NonbondedForce': {'epsilon': Array([1.0012144], dtype=float32), 'sigma': Array([0.33986008], dtype=float32)}}
+Loss: 0.011657791
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.33052373], dtype=float32), 'sigma': Array([-16.65612], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.25867367], dtype=float32), 'sigma': Array([-14.402176], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.5891974], dtype=float32), 'sigma': Array([-31.058296], dtype=float32)}}
+Effective sample sizes:
+loop-85: 98
+Total: 99.99999748700411
+Add loop-86
+LOOP: 87
+params: {'NonbondedForce': {'epsilon': Array([1.0038934], dtype=float32), 'sigma': Array([0.33991098], dtype=float32)}}
+Loss: 0.005659154
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.22226517], dtype=float32), 'sigma': Array([-11.779204], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.17057395], dtype=float32), 'sigma': Array([-7.773585], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.39283913], dtype=float32), 'sigma': Array([-19.55279], dtype=float32)}}
+Effective sample sizes:
+loop-86: 98
+Total: 99.9999395501406
+Add loop-87
+LOOP: 88
+params: {'NonbondedForce': {'epsilon': Array([1.007187], dtype=float32), 'sigma': Array([0.33997384], dtype=float32)}}
+Loss: 0.0123987915
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.3350466], dtype=float32), 'sigma': Array([-17.036434], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.07897282], dtype=float32), 'sigma': Array([-4.610848], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.4140194], dtype=float32), 'sigma': Array([-21.647282], dtype=float32)}}
+Effective sample sizes:
+loop-87: 98
+Total: 99.99999784783833
+Add loop-88
+LOOP: 89
+params: {'NonbondedForce': {'epsilon': Array([1.0110812], dtype=float32), 'sigma': Array([0.3400492], dtype=float32)}}
+Loss: 0.00012953235
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.03806807], dtype=float32), 'sigma': Array([1.9408827], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.00978088], dtype=float32), 'sigma': Array([0.32399732], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.04784896], dtype=float32), 'sigma': Array([2.26488], dtype=float32)}}
+Effective sample sizes:
+loop-88: 98
+Total: 99.99993131288669
+Add loop-89
+LOOP: 90
+params: {'NonbondedForce': {'epsilon': Array([1.0144986], dtype=float32), 'sigma': Array([0.34011546], dtype=float32)}}
+Loss: 0.00026933843
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.03747299], dtype=float32), 'sigma': Array([2.1249204], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.02574247], dtype=float32), 'sigma': Array([1.0696332], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.06321546], dtype=float32), 'sigma': Array([3.1945536], dtype=float32)}}
+Effective sample sizes:
+loop-89: 98
+Total: 99.99999808630605
+Add loop-90
+LOOP: 91
+params: {'NonbondedForce': {'epsilon': Array([1.0174485], dtype=float32), 'sigma': Array([0.34017262], dtype=float32)}}
+Loss: 7.4241725e-05
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.02259957], dtype=float32), 'sigma': Array([1.0985832], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.0124768], dtype=float32), 'sigma': Array([-0.3355393], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.01012277], dtype=float32), 'sigma': Array([0.7630439], dtype=float32)}}
+Effective sample sizes:
+loop-90: 98
+Total: 99.99999828137024
+Add loop-91
+LOOP: 92
+params: {'NonbondedForce': {'epsilon': Array([1.0200958], dtype=float32), 'sigma': Array([0.3402237], dtype=float32)}}
+Loss: 0.0021890968
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.12776522], dtype=float32), 'sigma': Array([-6.3845954], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.16140682], dtype=float32), 'sigma': Array([-6.94411], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.28917205], dtype=float32), 'sigma': Array([-13.328705], dtype=float32)}}
+Effective sample sizes:
+loop-91: 98
+Total: 99.9999981501016
+Add loop-92
+LOOP: 93
+params: {'NonbondedForce': {'epsilon': Array([1.0231472], dtype=float32), 'sigma': Array([0.34028167], dtype=float32)}}
+Loss: 0.00467325
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.17744602], dtype=float32), 'sigma': Array([9.342575], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.12479091], dtype=float32), 'sigma': Array([5.9070916], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.3022369], dtype=float32), 'sigma': Array([15.249666], dtype=float32)}}
+Effective sample sizes:
+loop-92: 98
+Total: 99.99993539455203
+Add loop-93
+LOOP: 94
+params: {'NonbondedForce': {'epsilon': Array([1.0252084], dtype=float32), 'sigma': Array([0.34032044], dtype=float32)}}
+Loss: 0.00045669233
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.06358653], dtype=float32), 'sigma': Array([-3.2526486], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.00701094], dtype=float32), 'sigma': Array([-1.4583306], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.07059747], dtype=float32), 'sigma': Array([-4.7109795], dtype=float32)}}
+Effective sample sizes:
+loop-93: 98
+Total: 99.99999784864798
+Add loop-94
+LOOP: 95
+params: {'NonbondedForce': {'epsilon': Array([1.0272363], dtype=float32), 'sigma': Array([0.34035972], dtype=float32)}}
+Loss: 0.0013969011
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.09750056], dtype=float32), 'sigma': Array([5.9102125], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.06892383], dtype=float32), 'sigma': Array([1.8985807], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.1664244], dtype=float32), 'sigma': Array([7.808793], dtype=float32)}}
+Effective sample sizes:
+loop-94: 98
+Total: 99.99999755613699
+Add loop-95
+LOOP: 96
+params: {'NonbondedForce': {'epsilon': Array([1.0286846], dtype=float32), 'sigma': Array([0.34038824], dtype=float32)}}
+Loss: 0.00015866269
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.02781557], dtype=float32), 'sigma': Array([1.4494964], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.00295876], dtype=float32), 'sigma': Array([0.3456023], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.02485681], dtype=float32), 'sigma': Array([1.7950987], dtype=float32)}}
+Effective sample sizes:
+loop-95: 98
+Total: 99.9999979593889
+Add loop-96
+LOOP: 97
+params: {'NonbondedForce': {'epsilon': Array([1.0299373], dtype=float32), 'sigma': Array([0.3404124], dtype=float32)}}
+Loss: 0.015992098
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.29851544], dtype=float32), 'sigma': Array([17.070742], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.3094139], dtype=float32), 'sigma': Array([22.33322], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.60792935], dtype=float32), 'sigma': Array([39.40396], dtype=float32)}}
+Effective sample sizes:
+loop-96: 98
+Total: 99.99999809304708
+Add loop-97
+LOOP: 98
+params: {'NonbondedForce': {'epsilon': Array([1.0296502], dtype=float32), 'sigma': Array([0.34039876], dtype=float32)}}
+Loss: 0.004236756
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.14929198], dtype=float32), 'sigma': Array([7.9232755], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.00180304], dtype=float32), 'sigma': Array([-3.2957067], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.14748894], dtype=float32), 'sigma': Array([4.6275687], dtype=float32)}}
+Effective sample sizes:
+loop-97: 98
+Total: 99.99999839640704
+Add loop-98
+LOOP: 99
+params: {'NonbondedForce': {'epsilon': Array([1.0290474], dtype=float32), 'sigma': Array([0.34038225], dtype=float32)}}
+Loss: 0.0004482137
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.0628385], dtype=float32), 'sigma': Array([-3.1450975], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.00842163], dtype=float32), 'sigma': Array([-0.17407107], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.07126013], dtype=float32), 'sigma': Array([-3.3191686], dtype=float32)}}
+Effective sample sizes:
+loop-98: 98
+Total: 99.99999801464331
+Add loop-99
+LOOP: 100
+params: {'NonbondedForce': {'epsilon': Array([1.0286686], dtype=float32), 'sigma': Array([0.3403703], dtype=float32)}}
+Loss: 0.001361897
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.08587481], dtype=float32), 'sigma': Array([4.657201], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.04236598], dtype=float32), 'sigma': Array([4.161115], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.1282408], dtype=float32), 'sigma': Array([8.8183155], dtype=float32)}}
+Effective sample sizes:
+loop-99: 98
+Total: 99.99999770014666
+Add loop-100
+LOOP: 101
+params: {'NonbondedForce': {'epsilon': Array([1.0280247], dtype=float32), 'sigma': Array([0.34035152], dtype=float32)}}
+Loss: 0.00020719555
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.03996276], dtype=float32), 'sigma': Array([-1.9701277], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.03007263], dtype=float32), 'sigma': Array([-1.6855447], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.07003539], dtype=float32), 'sigma': Array([-3.6556726], dtype=float32)}}
+Effective sample sizes:
+loop-100: 98
+Total: 99.99999773527955
+Add loop-101
+LOOP: 102
+params: {'NonbondedForce': {'epsilon': Array([1.0276077], dtype=float32), 'sigma': Array([0.34033787], dtype=float32)}}
+Loss: 0.0027105103
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.1258477], dtype=float32), 'sigma': Array([6.576064], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.00338519], dtype=float32), 'sigma': Array([-2.3005726], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.12923288], dtype=float32), 'sigma': Array([4.2754917], dtype=float32)}}
+Effective sample sizes:
+loop-101: 98
+Total: 99.99992928414714
+Add loop-102
+LOOP: 103
+params: {'NonbondedForce': {'epsilon': Array([1.0269238], dtype=float32), 'sigma': Array([0.3403216], dtype=float32)}}
+Loss: 0.0014983886
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.10421942], dtype=float32), 'sigma': Array([5.5439305], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.09349647], dtype=float32), 'sigma': Array([6.259798], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.1977159], dtype=float32), 'sigma': Array([11.803728], dtype=float32)}}
+Effective sample sizes:
+loop-102: 98
+Total: 99.99999833074392
+Add loop-103
+LOOP: 104
+params: {'NonbondedForce': {'epsilon': Array([1.0258346], dtype=float32), 'sigma': Array([0.34029606], dtype=float32)}}
+Loss: 0.017822739
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.42961764], dtype=float32), 'sigma': Array([23.611258], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.1153124], dtype=float32), 'sigma': Array([4.5904856], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.54493004], dtype=float32), 'sigma': Array([28.201744], dtype=float32)}}
+Effective sample sizes:
+loop-103: 98
+Total: 99.99999784328307
+Add loop-104
+LOOP: 105
+params: {'NonbondedForce': {'epsilon': Array([1.0235635], dtype=float32), 'sigma': Array([0.34024736], dtype=float32)}}
+Loss: 0.00019183347
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.03737302], dtype=float32), 'sigma': Array([-1.9162138], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.01014647], dtype=float32), 'sigma': Array([0.53310645], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.02722656], dtype=float32), 'sigma': Array([-1.3831073], dtype=float32)}}
+Effective sample sizes:
+loop-104: 98
+Total: 99.99999782419034
+Add loop-105
+LOOP: 106
+params: {'NonbondedForce': {'epsilon': Array([1.0215743], dtype=float32), 'sigma': Array([0.34020457], dtype=float32)}}
+Loss: 0.0004639456
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.05769346], dtype=float32), 'sigma': Array([2.948835], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.0276188], dtype=float32), 'sigma': Array([0.78850144], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.08531226], dtype=float32), 'sigma': Array([3.7373364], dtype=float32)}}
+Effective sample sizes:
+loop-105: 98
+Total: 99.99999804778388
+Add loop-106
+LOOP: 107
+params: {'NonbondedForce': {'epsilon': Array([1.0195707], dtype=float32), 'sigma': Array([0.34016243], dtype=float32)}}
+Loss: 0.006747377
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.2742081], dtype=float32), 'sigma': Array([14.425336], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.20323253], dtype=float32), 'sigma': Array([12.109824], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.47744063], dtype=float32), 'sigma': Array([26.53516], dtype=float32)}}
+Effective sample sizes:
+loop-106: 99
+Total: 99.99999819003229
+Add loop-107
+LOOP: 108
+params: {'NonbondedForce': {'epsilon': Array([1.016627], dtype=float32), 'sigma': Array([0.3401001], dtype=float32)}}
+Loss: 0.0011604074
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.09360456], dtype=float32), 'sigma': Array([-4.833033], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.10598013], dtype=float32), 'sigma': Array([-4.6919856], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.1995847], dtype=float32), 'sigma': Array([-9.525019], dtype=float32)}}
+Effective sample sizes:
+loop-107: 98
+Total: 99.99999827177925
+Add loop-108
+LOOP: 109
+params: {'NonbondedForce': {'epsilon': Array([1.0144473], dtype=float32), 'sigma': Array([0.34005263], dtype=float32)}}
+Loss: 0.0004307599
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.05887342], dtype=float32), 'sigma': Array([-3.0647125], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.06952706], dtype=float32), 'sigma': Array([-2.4420362], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.12840047], dtype=float32), 'sigma': Array([-5.5067487], dtype=float32)}}
+Effective sample sizes:
+loop-108: 98
+Total: 99.9999984052677
+Add loop-109
+LOOP: 110
+params: {'NonbondedForce': {'epsilon': Array([1.0127871], dtype=float32), 'sigma': Array([0.34001485], dtype=float32)}}
+Loss: 0.0049327584
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.2059434], dtype=float32), 'sigma': Array([-10.803409], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.03104448], dtype=float32), 'sigma': Array([1.9318855], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.17489892], dtype=float32), 'sigma': Array([-8.871523], dtype=float32)}}
+Effective sample sizes:
+loop-109: 98
+Total: 99.99999834380858
+Add loop-110
+LOOP: 111
+params: {'NonbondedForce': {'epsilon': Array([1.0117109], dtype=float32), 'sigma': Array([0.33998898], dtype=float32)}}
+Loss: 0.0070848083
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.25810066], dtype=float32), 'sigma': Array([13.315419], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.00540647], dtype=float32), 'sigma': Array([-5.294829], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.2526942], dtype=float32), 'sigma': Array([8.02059], dtype=float32)}}
+Effective sample sizes:
+loop-110: 98
+Total: 99.99999827349977
+Add loop-111
+LOOP: 112
+params: {'NonbondedForce': {'epsilon': Array([1.0101252], dtype=float32), 'sigma': Array([0.33995807], dtype=float32)}}
+Loss: 0.0006967862
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.06852976], dtype=float32), 'sigma': Array([-3.404888], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.00675708], dtype=float32), 'sigma': Array([-0.4481023], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.06177268], dtype=float32), 'sigma': Array([-3.8529902], dtype=float32)}}
+Effective sample sizes:
+loop-111: 98
+Total: 99.9999979351101
+Add loop-112
+LOOP: 113
+params: {'NonbondedForce': {'epsilon': Array([1.0088422], dtype=float32), 'sigma': Array([0.33993375], dtype=float32)}}
+Loss: 0.0006400467
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.07554231], dtype=float32), 'sigma': Array([4.2486444], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.05048749], dtype=float32), 'sigma': Array([-1.6255573], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.02505482], dtype=float32), 'sigma': Array([2.623087], dtype=float32)}}
+Effective sample sizes:
+loop-112: 98
+Total: 99.99999786847414
+Add loop-113
+LOOP: 114
+params: {'NonbondedForce': {'epsilon': Array([1.0076207], dtype=float32), 'sigma': Array([0.3399093], dtype=float32)}}
+Loss: 0.000613872
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.06571405], dtype=float32), 'sigma': Array([3.5187206], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.05552658], dtype=float32), 'sigma': Array([-3.2102048], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.01018746], dtype=float32), 'sigma': Array([0.3085158], dtype=float32)}}
+Effective sample sizes:
+loop-113: 98
+Total: 99.99999803527898
+Add loop-114
+LOOP: 115
+params: {'NonbondedForce': {'epsilon': Array([1.0064911], dtype=float32), 'sigma': Array([0.33988687], dtype=float32)}}
+Loss: 0.00068726816
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.07035963], dtype=float32), 'sigma': Array([-3.8263712], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.00624144], dtype=float32), 'sigma': Array([0.7703531], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.07660107], dtype=float32), 'sigma': Array([-3.056018], dtype=float32)}}
+Effective sample sizes:
+loop-114: 98
+Total: 99.99999825330349
+Add loop-115
+LOOP: 116
+params: {'NonbondedForce': {'epsilon': Array([1.0056596], dtype=float32), 'sigma': Array([0.33986953], dtype=float32)}}
+Loss: 0.0029246255
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.16630504], dtype=float32), 'sigma': Array([8.389248], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.12169814], dtype=float32), 'sigma': Array([-6.9058805], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.04460689], dtype=float32), 'sigma': Array([1.4833674], dtype=float32)}}
+Effective sample sizes:
+loop-115: 98
+Total: 99.99999816727913
+Add loop-116
+LOOP: 117
+params: {'NonbondedForce': {'epsilon': Array([1.0047969], dtype=float32), 'sigma': Array([0.33985242], dtype=float32)}}
+Loss: 0.003579966
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.1529078], dtype=float32), 'sigma': Array([8.506399], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.04580438], dtype=float32), 'sigma': Array([0.4781716], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.19871219], dtype=float32), 'sigma': Array([8.9845705], dtype=float32)}}
+Effective sample sizes:
+loop-116: 98
+Total: 99.99993892208771
+Add loop-117
+LOOP: 118
+params: {'NonbondedForce': {'epsilon': Array([1.0035218], dtype=float32), 'sigma': Array([0.3398283], dtype=float32)}}
+Loss: 0.0015845461
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.12528159], dtype=float32), 'sigma': Array([-6.3238115], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.11413759], dtype=float32), 'sigma': Array([-5.9218273], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.23941918], dtype=float32), 'sigma': Array([-12.245639], dtype=float32)}}
+Effective sample sizes:
+loop-117: 98
+Total: 99.99993886704617
+Add loop-118
+LOOP: 119
+params: {'NonbondedForce': {'epsilon': Array([1.0029702], dtype=float32), 'sigma': Array([0.3398184], dtype=float32)}}
+Loss: 2.7353683e-05
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.0138788], dtype=float32), 'sigma': Array([-0.7493313], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.01477595], dtype=float32), 'sigma': Array([-0.75808024], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.02865475], dtype=float32), 'sigma': Array([-1.5074115], dtype=float32)}}
+Effective sample sizes:
+loop-118: 98
+Total: 99.99999804821886
+Add loop-119
+LOOP: 120
+params: {'NonbondedForce': {'epsilon': Array([1.0025437], dtype=float32), 'sigma': Array([0.33981088], dtype=float32)}}
+Loss: 4.2910883e-06
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.00632308], dtype=float32), 'sigma': Array([0.31071925], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.00319411], dtype=float32), 'sigma': Array([0.25066814], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.00951719], dtype=float32), 'sigma': Array([0.5613874], dtype=float32)}}
+Effective sample sizes:
+loop-119: 98
+Total: 99.99999794270359
+Add loop-120
+LOOP: 121
+params: {'NonbondedForce': {'epsilon': Array([1.0021341], dtype=float32), 'sigma': Array([0.33980355], dtype=float32)}}
+Loss: 5.5729943e-05
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.02552299], dtype=float32), 'sigma': Array([1.3134847], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.00253513], dtype=float32), 'sigma': Array([-0.08656035], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.02805812], dtype=float32), 'sigma': Array([1.2269243], dtype=float32)}}
+Effective sample sizes:
+loop-120: 98
+Total: 99.99999827652366
+Add loop-121
+LOOP: 122
+params: {'NonbondedForce': {'epsilon': Array([1.0016927], dtype=float32), 'sigma': Array([0.3397957], dtype=float32)}}
+Loss: 0.00018285992
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.03758581], dtype=float32), 'sigma': Array([2.035], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.01148085], dtype=float32), 'sigma': Array([-0.03984414], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.02610496], dtype=float32), 'sigma': Array([1.9951559], dtype=float32)}}
+Effective sample sizes:
+loop-121: 98
+Total: 99.99999808408984
+Add loop-122
+LOOP: 123
+params: {'NonbondedForce': {'epsilon': Array([1.0012271], dtype=float32), 'sigma': Array([0.33978668], dtype=float32)}}
+Loss: 3.6104e-05
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.01708027], dtype=float32), 'sigma': Array([0.84248966], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.00860509], dtype=float32), 'sigma': Array([0.24834487], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.02568536], dtype=float32), 'sigma': Array([1.0908345], dtype=float32)}}
+Effective sample sizes:
+loop-122: 99
+Total: 99.99999877316576
+Add loop-123
+LOOP: 124
+params: {'NonbondedForce': {'epsilon': Array([1.0007406], dtype=float32), 'sigma': Array([0.33977744], dtype=float32)}}
+Loss: 0.009088775
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.25936094], dtype=float32), 'sigma': Array([13.470292], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.41592765], dtype=float32), 'sigma': Array([26.994806], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.67528856], dtype=float32), 'sigma': Array([40.4651], dtype=float32)}}
+Effective sample sizes:
+loop-123: 98
+Total: 99.99999803571436
+Add loop-124
+LOOP: 125
+params: {'NonbondedForce': {'epsilon': Array([0.99859333], dtype=float32), 'sigma': Array([0.3397298], dtype=float32)}}
+Loss: 0.006760388
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.20412765], dtype=float32), 'sigma': Array([-10.933607], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.11533743], dtype=float32), 'sigma': Array([4.0688415], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.08879022], dtype=float32), 'sigma': Array([-6.8647656], dtype=float32)}}
+Effective sample sizes:
+loop-124: 98
+Total: 99.99999804772192
+Add loop-125
+LOOP: 126
+params: {'NonbondedForce': {'epsilon': Array([0.9968791], dtype=float32), 'sigma': Array([0.33969346], dtype=float32)}}
+Loss: 0.001443969
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.11539686], dtype=float32), 'sigma': Array([-5.9345307], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.00331803], dtype=float32), 'sigma': Array([0.48473313], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.11207883], dtype=float32), 'sigma': Array([-5.4497976], dtype=float32)}}
+Effective sample sizes:
+loop-125: 98
+Total: 99.99993751086535
+Add loop-126
+LOOP: 127
+params: {'NonbondedForce': {'epsilon': Array([0.99561685], dtype=float32), 'sigma': Array([0.33966598], dtype=float32)}}
+Loss: 0.007950781
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.27713788], dtype=float32), 'sigma': Array([-14.233593], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.05794823], dtype=float32), 'sigma': Array([7.3407116], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.21918964], dtype=float32), 'sigma': Array([-6.8928814], dtype=float32)}}
+Effective sample sizes:
+loop-126: 98
+Total: 99.99993923704612
+Add loop-127
+LOOP: 128
+params: {'NonbondedForce': {'epsilon': Array([0.9950397], dtype=float32), 'sigma': Array([0.33964795], dtype=float32)}}
+Loss: 0.0011974039
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.10697721], dtype=float32), 'sigma': Array([-5.396385], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.02841887], dtype=float32), 'sigma': Array([3.6813607], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.07855834], dtype=float32), 'sigma': Array([-1.7150245], dtype=float32)}}
+Effective sample sizes:
+loop-127: 98
+Total: 99.99999779578305
+Add loop-128
+LOOP: 129
+params: {'NonbondedForce': {'epsilon': Array([0.99472046], dtype=float32), 'sigma': Array([0.33963335], dtype=float32)}}
+Loss: 0.00011688833
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.03054485], dtype=float32), 'sigma': Array([-1.598016], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.01252124], dtype=float32), 'sigma': Array([0.690748], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.01802361], dtype=float32), 'sigma': Array([-0.90726805], dtype=float32)}}
+Effective sample sizes:
+loop-128: 98
+Total: 99.9999981523464
+Add loop-129
+LOOP: 130
+params: {'NonbondedForce': {'epsilon': Array([0.9944785], dtype=float32), 'sigma': Array([0.33962107], dtype=float32)}}
+Loss: 0.014123006
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.3343585], dtype=float32), 'sigma': Array([-16.22524], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.05468947], dtype=float32), 'sigma': Array([-1.053094], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.27966905], dtype=float32), 'sigma': Array([-17.278336], dtype=float32)}}
+Effective sample sizes:
+loop-129: 98
+Total: 99.9998830750411
+Add loop-130
+LOOP: 131
+params: {'NonbondedForce': {'epsilon': Array([0.9949848], dtype=float32), 'sigma': Array([0.33962718], dtype=float32)}}
+Loss: 2.2720908e-06
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.00383087], dtype=float32), 'sigma': Array([0.21760133], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-1.1406839e-05], dtype=float32), 'sigma': Array([-0.05902356], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.00381946], dtype=float32), 'sigma': Array([0.15857777], dtype=float32)}}
+Effective sample sizes:
+loop-130: 98
+Total: 99.99999849158674
+Add loop-131
+LOOP: 132
+params: {'NonbondedForce': {'epsilon': Array([0.9954324], dtype=float32), 'sigma': Array([0.33963254], dtype=float32)}}
+Loss: 0.00048242076
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.0624506], dtype=float32), 'sigma': Array([2.951269], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.01427582], dtype=float32), 'sigma': Array([1.9821994], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.07672642], dtype=float32), 'sigma': Array([4.9334683], dtype=float32)}}
+Effective sample sizes:
+loop-131: 98
+Total: 99.9999434998866
+Add loop-132
+LOOP: 133
+params: {'NonbondedForce': {'epsilon': Array([0.9956364], dtype=float32), 'sigma': Array([0.33963245], dtype=float32)}}
+Loss: 0.0030380965
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.15582287], dtype=float32), 'sigma': Array([-8.566451], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.14512622], dtype=float32), 'sigma': Array([-6.1510015], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.3009491], dtype=float32), 'sigma': Array([-14.717453], dtype=float32)}}
+Effective sample sizes:
+loop-132: 98
+Total: 99.99993787183404
+Add loop-133
+LOOP: 134
+params: {'NonbondedForce': {'epsilon': Array([0.9966073], dtype=float32), 'sigma': Array([0.33964714], dtype=float32)}}
+Loss: 0.0026214083
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.13712564], dtype=float32), 'sigma': Array([-7.0755663], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.0246374], dtype=float32), 'sigma': Array([-1.9568911], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.11248824], dtype=float32), 'sigma': Array([-9.032457], dtype=float32)}}
+Effective sample sizes:
+loop-133: 98
+Total: 99.99993951952841
+Add loop-134
+LOOP: 135
+params: {'NonbondedForce': {'epsilon': Array([0.99777955], dtype=float32), 'sigma': Array([0.33966953], dtype=float32)}}
+Loss: 0.015395122
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.38895124], dtype=float32), 'sigma': Array([-20.986006], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.3386253], dtype=float32), 'sigma': Array([-12.36808], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.72757655], dtype=float32), 'sigma': Array([-33.354088], dtype=float32)}}
+Effective sample sizes:
+loop-134: 98
+Total: 99.99993901279682
+Add loop-135
+LOOP: 136
+params: {'NonbondedForce': {'epsilon': Array([1.0007135], dtype=float32), 'sigma': Array([0.33972287], dtype=float32)}}
+Loss: 0.0021846325
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.15734598], dtype=float32), 'sigma': Array([-7.9147754], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.06669796], dtype=float32), 'sigma': Array([3.4532087], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.09064803], dtype=float32), 'sigma': Array([-4.461567], dtype=float32)}}
+Effective sample sizes:
+loop-135: 98
+Total: 99.99999841256641
+Add loop-136
+LOOP: 137
+params: {'NonbondedForce': {'epsilon': Array([1.0036001], dtype=float32), 'sigma': Array([0.33977556], dtype=float32)}}
+Loss: 0.0036354854
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.12630223], dtype=float32), 'sigma': Array([-6.5631714], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.09475604], dtype=float32), 'sigma': Array([-2.4736094], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.22105826], dtype=float32), 'sigma': Array([-9.036781], dtype=float32)}}
+Effective sample sizes:
+loop-136: 98
+Total: 99.99999812925918
+Add loop-137
+LOOP: 138
+params: {'NonbondedForce': {'epsilon': Array([1.0067828], dtype=float32), 'sigma': Array([0.33983222], dtype=float32)}}
+Loss: 1.9840638e-05
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.0115069], dtype=float32), 'sigma': Array([-0.675247], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.00563097], dtype=float32), 'sigma': Array([-0.17789663], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.01713787], dtype=float32), 'sigma': Array([-0.85314363], dtype=float32)}}
+Effective sample sizes:
+loop-137: 98
+Total: 99.99999794286987
+Add loop-138
+LOOP: 139
+params: {'NonbondedForce': {'epsilon': Array([1.0097032], dtype=float32), 'sigma': Array([0.33988428], dtype=float32)}}
+Loss: 0.00013454584
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.03475489], dtype=float32), 'sigma': Array([-1.8454707], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.01896942], dtype=float32), 'sigma': Array([-0.6213081], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.05372431], dtype=float32), 'sigma': Array([-2.4667788], dtype=float32)}}
+Effective sample sizes:
+loop-138: 98
+Total: 99.99994019139072
+Add loop-139
+LOOP: 140
+params: {'NonbondedForce': {'epsilon': Array([1.012483], dtype=float32), 'sigma': Array([0.3399338], dtype=float32)}}
+Loss: 0.001300231
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.09791186], dtype=float32), 'sigma': Array([-5.033881], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.01866674], dtype=float32), 'sigma': Array([-0.37129128], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.11657861], dtype=float32), 'sigma': Array([-5.4051723], dtype=float32)}}
+Effective sample sizes:
+loop-139: 98
+Total: 99.99999827177925
+Add loop-140
+LOOP: 141
+params: {'NonbondedForce': {'epsilon': Array([1.0153017], dtype=float32), 'sigma': Array([0.33998406], dtype=float32)}}
+Loss: 0.0052949046
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.21473654], dtype=float32), 'sigma': Array([-12.176967], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.07019493], dtype=float32), 'sigma': Array([-4.05446], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.28493148], dtype=float32), 'sigma': Array([-16.231426], dtype=float32)}}
+Effective sample sizes:
+loop-140: 98
+Total: 99.99999760638602
+Add loop-141
+LOOP: 142
+params: {'NonbondedForce': {'epsilon': Array([1.018597], dtype=float32), 'sigma': Array([0.34004587], dtype=float32)}}
+Loss: 0.0007789611
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.07521896], dtype=float32), 'sigma': Array([4.0602627], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.04227072], dtype=float32), 'sigma': Array([2.8859875], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.11748968], dtype=float32), 'sigma': Array([6.94625], dtype=float32)}}
+Effective sample sizes:
+loop-141: 98
+Total: 99.99999842926648
+Add loop-142
+LOOP: 143
+params: {'NonbondedForce': {'epsilon': Array([1.0212607], dtype=float32), 'sigma': Array([0.3400946], dtype=float32)}}
+Loss: 0.007446578
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.27393058], dtype=float32), 'sigma': Array([14.997913], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.12022898], dtype=float32), 'sigma': Array([-4.7970076], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.1537016], dtype=float32), 'sigma': Array([10.200906], dtype=float32)}}
+Effective sample sizes:
+loop-142: 98
+Total: 99.99999791608133
+Add loop-143
+LOOP: 144
+params: {'NonbondedForce': {'epsilon': Array([1.0232561], dtype=float32), 'sigma': Array([0.3401281], dtype=float32)}}
+Loss: 0.0015587935
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.10131162], dtype=float32), 'sigma': Array([5.7674565], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.06134725], dtype=float32), 'sigma': Array([2.5590303], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.16265887], dtype=float32), 'sigma': Array([8.326487], dtype=float32)}}
+Effective sample sizes:
+loop-143: 98
+Total: 99.99993360956852
+Add loop-144
+LOOP: 145
+params: {'NonbondedForce': {'epsilon': Array([1.0246226], dtype=float32), 'sigma': Array([0.34014976], dtype=float32)}}
+Loss: 0.0002786649
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.0470624], dtype=float32), 'sigma': Array([-2.6416373], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.00860959], dtype=float32), 'sigma': Array([-0.00461823], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.055672], dtype=float32), 'sigma': Array([-2.6462555], dtype=float32)}}
+Effective sample sizes:
+loop-144: 98
+Total: 99.99993505245033
+Add loop-145
+LOOP: 146
+params: {'NonbondedForce': {'epsilon': Array([1.0260062], dtype=float32), 'sigma': Array([0.34017208], dtype=float32)}}
+Loss: 0.0019565113
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.11518306], dtype=float32), 'sigma': Array([6.151745], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.1170013], dtype=float32), 'sigma': Array([5.9948087], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.23218435], dtype=float32), 'sigma': Array([12.146553], dtype=float32)}}
+Effective sample sizes:
+loop-145: 98
+Total: 99.99999817349602
+Add loop-146
+LOOP: 147
+params: {'NonbondedForce': {'epsilon': Array([1.02663], dtype=float32), 'sigma': Array([0.34017962], dtype=float32)}}
+Loss: 0.013240414
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.2991914], dtype=float32), 'sigma': Array([16.766981], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.29840517], dtype=float32), 'sigma': Array([21.345198], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.5975965], dtype=float32), 'sigma': Array([38.11218], dtype=float32)}}
+Effective sample sizes:
+loop-146: 98
+Total: 99.999932302297
+Add loop-147
+LOOP: 148
+params: {'NonbondedForce': {'epsilon': Array([1.0255908], dtype=float32), 'sigma': Array([0.34014732], dtype=float32)}}
+Loss: 0.00017319928
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.04162715], dtype=float32), 'sigma': Array([2.2326655], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.00348759], dtype=float32), 'sigma': Array([-0.6050294], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.04511474], dtype=float32), 'sigma': Array([1.6276362], dtype=float32)}}
+Effective sample sizes:
+loop-147: 98
+Total: 99.99999789515869
+Add loop-148
+LOOP: 149
+params: {'NonbondedForce': {'epsilon': Array([1.0245311], dtype=float32), 'sigma': Array([0.34011647], dtype=float32)}}
+Loss: 3.7163714e-05
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.01881776], dtype=float32), 'sigma': Array([-0.9187269], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.00405355], dtype=float32), 'sigma': Array([-0.2741105], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.02287131], dtype=float32), 'sigma': Array([-1.1928375], dtype=float32)}}
+Effective sample sizes:
+loop-148: 98
+Total: 99.99999803100879
+Add loop-149
+LOOP: 150
+params: {'NonbondedForce': {'epsilon': Array([1.0236355], dtype=float32), 'sigma': Array([0.34008983], dtype=float32)}}
+Loss: 0.001990312
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.12680598], dtype=float32), 'sigma': Array([6.613096], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.05144107], dtype=float32), 'sigma': Array([1.5008423], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.17824705], dtype=float32), 'sigma': Array([8.113938], dtype=float32)}}
+Effective sample sizes:
+loop-149: 98
+Total: 99.99999840522679
+Add loop-150
+LOOP: 151
+params: {'NonbondedForce': {'epsilon': Array([1.022346], dtype=float32), 'sigma': Array([0.34005737], dtype=float32)}}
+Loss: 0.0126574645
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.37501436], dtype=float32), 'sigma': Array([20.372084], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.12289047], dtype=float32), 'sigma': Array([10.530923], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.49790484], dtype=float32), 'sigma': Array([30.903008], dtype=float32)}}
+Effective sample sizes:
+loop-150: 98
+Total: 99.9999982717347
+Add loop-151
+LOOP: 152
+params: {'NonbondedForce': {'epsilon': Array([1.0198486], dtype=float32), 'sigma': Array([0.33999655], dtype=float32)}}
+Loss: 0.021901233
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.43061107], dtype=float32), 'sigma': Array([21.818384], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.19579244], dtype=float32), 'sigma': Array([-15.43255], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.23481864], dtype=float32), 'sigma': Array([6.3858337], dtype=float32)}}
+Effective sample sizes:
+loop-151: 98
+Total: 99.99999791424047
+Add loop-152
+LOOP: 153
+params: {'NonbondedForce': {'epsilon': Array([1.0169626], dtype=float32), 'sigma': Array([0.33993503], dtype=float32)}}
+Loss: 0.0014423061
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.09844816], dtype=float32), 'sigma': Array([-5.186822], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.01788574], dtype=float32), 'sigma': Array([-0.57816565], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.08056242], dtype=float32), 'sigma': Array([-5.7649875], dtype=float32)}}
+Effective sample sizes:
+loop-152: 98
+Total: 99.99999805767034
+Add loop-153
+LOOP: 154
+params: {'NonbondedForce': {'epsilon': Array([1.0145746], dtype=float32), 'sigma': Array([0.33988547], dtype=float32)}}
+Loss: 0.0019298672
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.1422193], dtype=float32), 'sigma': Array([-7.5750575], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.06170383], dtype=float32), 'sigma': Array([-2.598855], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.20392314], dtype=float32), 'sigma': Array([-10.173912], dtype=float32)}}
+Effective sample sizes:
+loop-153: 98
+Total: 99.99999803304699
+Add loop-154
+LOOP: 155
+params: {'NonbondedForce': {'epsilon': Array([1.0129735], dtype=float32), 'sigma': Array([0.33985132], dtype=float32)}}
+Loss: 0.0011363116
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.10794236], dtype=float32), 'sigma': Array([-6.0419474], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.05873211], dtype=float32), 'sigma': Array([3.53845], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.04921024], dtype=float32), 'sigma': Array([-2.5034974], dtype=float32)}}
+Effective sample sizes:
+loop-154: 98
+Total: 99.99999804803002
+Add loop-155
+LOOP: 156
+params: {'NonbondedForce': {'epsilon': Array([1.0116615], dtype=float32), 'sigma': Array([0.33982307], dtype=float32)}}
+Loss: 0.0013765951
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.08346165], dtype=float32), 'sigma': Array([4.3214145], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.0539479], dtype=float32), 'sigma': Array([-3.8159802], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.02951375], dtype=float32), 'sigma': Array([0.5054343], dtype=float32)}}
+Effective sample sizes:
+loop-155: 98
+Total: 99.99999819015599
+Add loop-156
+LOOP: 157
+params: {'NonbondedForce': {'epsilon': Array([1.010396], dtype=float32), 'sigma': Array([0.33979702], dtype=float32)}}
+Loss: 0.00020588387
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.03564657], dtype=float32), 'sigma': Array([1.8597255], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.04029316], dtype=float32), 'sigma': Array([1.3638792], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.07593972], dtype=float32), 'sigma': Array([3.2236047], dtype=float32)}}
+Effective sample sizes:
+loop-156: 98
+Total: 99.99999832441817
+Add loop-157
+LOOP: 158
+params: {'NonbondedForce': {'epsilon': Array([1.0090451], dtype=float32), 'sigma': Array([0.33977014], dtype=float32)}}
+Loss: 0.00031955275
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.05249725], dtype=float32), 'sigma': Array([2.7817042], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.01639748], dtype=float32), 'sigma': Array([0.35032153], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.06889472], dtype=float32), 'sigma': Array([3.1320257], dtype=float32)}}
+Effective sample sizes:
+loop-157: 98
+Total: 99.99999802369452
+Add loop-158
+LOOP: 159
+params: {'NonbondedForce': {'epsilon': Array([1.0076358], dtype=float32), 'sigma': Array([0.33974254], dtype=float32)}}
+Loss: 0.0035320935
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.1831396], dtype=float32), 'sigma': Array([-9.875144], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.01738977], dtype=float32), 'sigma': Array([0.80658317], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.20052938], dtype=float32), 'sigma': Array([-9.068561], dtype=float32)}}
+Effective sample sizes:
+loop-158: 99
+Total: 99.99993575294637
+Add loop-159
+LOOP: 160
+params: {'NonbondedForce': {'epsilon': Array([1.0069172], dtype=float32), 'sigma': Array([0.33972722], dtype=float32)}}
+Loss: 0.00069890206
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.07383266], dtype=float32), 'sigma': Array([3.6354232], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.08187151], dtype=float32), 'sigma': Array([-2.069513], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.00803885], dtype=float32), 'sigma': Array([1.5659101], dtype=float32)}}
+Effective sample sizes:
+loop-159: 99
+Total: 99.99999815732616
+Add loop-160
+LOOP: 161
+params: {'NonbondedForce': {'epsilon': Array([1.0062906], dtype=float32), 'sigma': Array([0.33971173], dtype=float32)}}
+Loss: 0.0105754705
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.2741775], dtype=float32), 'sigma': Array([-14.761631], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.20328498], dtype=float32), 'sigma': Array([-16.125217], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.47746247], dtype=float32), 'sigma': Array([-30.886848], dtype=float32)}}
+Effective sample sizes:
+loop-160: 98
+Total: 99.99999827121788
+Add loop-161
+LOOP: 162
+params: {'NonbondedForce': {'epsilon': Array([1.0070453], dtype=float32), 'sigma': Array([0.33973038], dtype=float32)}}
+Loss: 0.001949062
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.13450058], dtype=float32), 'sigma': Array([-7.099644], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.19192094], dtype=float32), 'sigma': Array([-10.835514], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.3264215], dtype=float32), 'sigma': Array([-17.935158], dtype=float32)}}
+Effective sample sizes:
+loop-161: 99
+Total: 99.99999837198294
+Add loop-162
+LOOP: 163
+params: {'NonbondedForce': {'epsilon': Array([1.008626], dtype=float32), 'sigma': Array([0.33976606], dtype=float32)}}
+Loss: 0.0003497258
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.04672725], dtype=float32), 'sigma': Array([-2.637893], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.01869066], dtype=float32), 'sigma': Array([-1.205408], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.06541791], dtype=float32), 'sigma': Array([-3.8433008], dtype=float32)}}
+Effective sample sizes:
+loop-162: 98
+Total: 99.99999831674833
+Add loop-163
+LOOP: 164
+params: {'NonbondedForce': {'epsilon': Array([1.0102345], dtype=float32), 'sigma': Array([0.33980232], dtype=float32)}}
+Loss: 5.5043765e-05
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.02040678], dtype=float32), 'sigma': Array([1.0330652], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.03349083], dtype=float32), 'sigma': Array([1.4365796], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.0538976], dtype=float32), 'sigma': Array([2.4696448], dtype=float32)}}
+Effective sample sizes:
+loop-163: 98
+Total: 99.99993525919093
+Add loop-164
+LOOP: 165
+params: {'NonbondedForce': {'epsilon': Array([1.011537], dtype=float32), 'sigma': Array([0.33983245], dtype=float32)}}
+Loss: 0.0003289945
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.05064708], dtype=float32), 'sigma': Array([2.5198896], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.04429552], dtype=float32), 'sigma': Array([2.6299822], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.0949426], dtype=float32), 'sigma': Array([5.149872], dtype=float32)}}
+Effective sample sizes:
+loop-164: 98
+Total: 99.99999859597511
+Add loop-165
+LOOP: 166
+params: {'NonbondedForce': {'epsilon': Array([1.0124482], dtype=float32), 'sigma': Array([0.33985418], dtype=float32)}}
+Loss: 0.0016529257
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.09621134], dtype=float32), 'sigma': Array([-4.524212], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.00543761], dtype=float32), 'sigma': Array([0.58076525], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.09077372], dtype=float32), 'sigma': Array([-3.9434466], dtype=float32)}}
+Effective sample sizes:
+loop-165: 98
+Total: 99.99999828129846
+Add loop-166
+LOOP: 167
+params: {'NonbondedForce': {'epsilon': Array([1.0135247], dtype=float32), 'sigma': Array([0.339878], dtype=float32)}}
+Loss: 0.0072583174
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.23564082], dtype=float32), 'sigma': Array([-12.326529], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.04568529], dtype=float32), 'sigma': Array([-4.161391], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.28132612], dtype=float32), 'sigma': Array([-16.487919], dtype=float32)}}
+Effective sample sizes:
+loop-166: 98
+Total: 99.99999797335491
+Add loop-167
+LOOP: 168
+params: {'NonbondedForce': {'epsilon': Array([1.015282], dtype=float32), 'sigma': Array([0.33991703], dtype=float32)}}
+Loss: 0.0022092962
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.15449992], dtype=float32), 'sigma': Array([-8.458297], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.07636446], dtype=float32), 'sigma': Array([5.895257], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.07813546], dtype=float32), 'sigma': Array([-2.5630398], dtype=float32)}}
+Effective sample sizes:
+loop-167: 98
+Total: 99.99999808603867
+Add loop-168
+LOOP: 169
+params: {'NonbondedForce': {'epsilon': Array([1.0170879], dtype=float32), 'sigma': Array([0.33995503], dtype=float32)}}
+Loss: 0.00018340186
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.03906786], dtype=float32), 'sigma': Array([-2.0817852], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.01516578], dtype=float32), 'sigma': Array([-1.0314583], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.05423364], dtype=float32), 'sigma': Array([-3.1132436], dtype=float32)}}
+Effective sample sizes:
+loop-168: 98
+Total: 99.99999780944543
+Add loop-169
+LOOP: 170
+params: {'NonbondedForce': {'epsilon': Array([1.0188711], dtype=float32), 'sigma': Array([0.33999267], dtype=float32)}}
+Loss: 0.00040509793
+nve gradient: {'NonbondedForce': {'epsilon': Array([-0.05479644], dtype=float32), 'sigma': Array([-3.0220904], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.04595995], dtype=float32), 'sigma': Array([3.2044482], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([-0.00883649], dtype=float32), 'sigma': Array([0.18235779], dtype=float32)}}
+Effective sample sizes:
+loop-169: 98
+Total: 99.99999744259544
+Add loop-170
+LOOP: 171
+params: {'NonbondedForce': {'epsilon': Array([1.020506], dtype=float32), 'sigma': Array([0.34002647], dtype=float32)}}
+Loss: 0.0062838416
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.22031495], dtype=float32), 'sigma': Array([10.516769], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.05925491], dtype=float32), 'sigma': Array([-3.527477], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.16106004], dtype=float32), 'sigma': Array([6.989292], dtype=float32)}}
+Effective sample sizes:
+loop-170: 98
+Total: 99.99999749693085
+Add loop-171
+LOOP: 172
+params: {'NonbondedForce': {'epsilon': Array([1.0215249], dtype=float32), 'sigma': Array([0.34004942], dtype=float32)}}
+Loss: 0.0011354013
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.07140511], dtype=float32), 'sigma': Array([3.6105895], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.02967501], dtype=float32), 'sigma': Array([0.8442255], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.10108011], dtype=float32), 'sigma': Array([4.454815], dtype=float32)}}
+Effective sample sizes:
+loop-171: 98
+Total: 99.99993170530543
+Add loop-172
+LOOP: 173
+params: {'NonbondedForce': {'epsilon': Array([1.0221574], dtype=float32), 'sigma': Array([0.3400653], dtype=float32)}}
+Loss: 0.011791206
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.36619332], dtype=float32), 'sigma': Array([19.548113], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.23871648], dtype=float32), 'sigma': Array([-10.533134], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.12747684], dtype=float32), 'sigma': Array([9.014978], dtype=float32)}}
+Effective sample sizes:
+loop-172: 98
+Total: 99.99999795182184
+Add loop-173
+LOOP: 174
+params: {'NonbondedForce': {'epsilon': Array([1.0223652], dtype=float32), 'sigma': Array([0.34006983], dtype=float32)}}
+Loss: 0.004756832
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.16049215], dtype=float32), 'sigma': Array([8.2236595], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.03078169], dtype=float32), 'sigma': Array([1.8049012], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.12971047], dtype=float32), 'sigma': Array([10.028561], dtype=float32)}}
+Effective sample sizes:
+loop-173: 98
+Total: 99.99999803519297
+Add loop-174
+LOOP: 175
+params: {'NonbondedForce': {'epsilon': Array([1.0221822], dtype=float32), 'sigma': Array([0.340063], dtype=float32)}}
+Loss: 0.001769096
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.10853645], dtype=float32), 'sigma': Array([5.771022], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.02018422], dtype=float32), 'sigma': Array([-2.87344], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.08835223], dtype=float32), 'sigma': Array([2.8975818], dtype=float32)}}
+Effective sample sizes:
+loop-174: 98
+Total: 99.9999980303801
+Add loop-175
+LOOP: 176
+params: {'NonbondedForce': {'epsilon': Array([1.0217639], dtype=float32), 'sigma': Array([0.34005368], dtype=float32)}}
+Loss: 0.004846762
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.20216829], dtype=float32), 'sigma': Array([10.642027], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.0669347], dtype=float32), 'sigma': Array([-0.302199], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.13523358], dtype=float32), 'sigma': Array([10.339828], dtype=float32)}}
+Effective sample sizes:
+loop-175: 98
+Total: 99.99999839273687
+Add loop-176
+LOOP: 177
+params: {'NonbondedForce': {'epsilon': Array([1.0209981], dtype=float32), 'sigma': Array([0.34003395], dtype=float32)}}
+Loss: 0.0025327879
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.14682956], dtype=float32), 'sigma': Array([7.6273813], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([-0.14382046], dtype=float32), 'sigma': Array([-10.351611], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.0030091], dtype=float32), 'sigma': Array([-2.7242298], dtype=float32)}}
+Effective sample sizes:
+loop-176: 98
+Total: 99.99993485750463
+Add loop-177
+LOOP: 178
+params: {'NonbondedForce': {'epsilon': Array([1.0202981], dtype=float32), 'sigma': Array([0.34001914], dtype=float32)}}
+Loss: 0.0007669341
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.07025084], dtype=float32), 'sigma': Array([4.154497], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.09838605], dtype=float32), 'sigma': Array([6.213343], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.16863689], dtype=float32), 'sigma': Array([10.36784], dtype=float32)}}
+Effective sample sizes:
+loop-177: 98
+Total: 99.99993173111865
+Add loop-178
+LOOP: 179
+params: {'NonbondedForce': {'epsilon': Array([1.0191797], dtype=float32), 'sigma': Array([0.33999437], dtype=float32)}}
+Loss: 0.0011636933
+nve gradient: {'NonbondedForce': {'epsilon': Array([0.10325705], dtype=float32), 'sigma': Array([5.5452194], dtype=float32)}}
+nvt gradient: {'NonbondedForce': {'epsilon': Array([0.10948914], dtype=float32), 'sigma': Array([2.2063065], dtype=float32)}}
+total gradient: {'NonbondedForce': {'epsilon': Array([0.2127462], dtype=float32), 'sigma': Array([7.751526], dtype=float32)}}
+Effective sample sizes:
+loop-178: 98
+Total: 99.99999812891791
+Add loop-179
+LOOP: 180
+params: {'NonbondedForce': {'epsilon': Array([1.0175557], dtype=float32), 'sigma': Array([0.3399635], dtype=float32)}}
