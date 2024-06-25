@@ -1,0 +1,10 @@
+{
+    "job_name": "IR test",
+    "command": "python IR.py > log",
+    "log_file": "tmp_log",
+    "project_id": 10910,
+    "platform": "paratera",
+    "machine_type": "1 * NVIDIA V100_32g",
+    "job_type": "container",
+    "image_name": "registry.dp.tech/dptech/prod-12787/dmff1-dp:dmff"
+}
