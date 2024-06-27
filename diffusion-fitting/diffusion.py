@@ -6,15 +6,15 @@ import numpy as np
 import jax
 from jax import jit, value_and_grad, vmap, pmap, grad, random
 import jax.numpy as jnp
-from dmff1.api import Hamiltonian
+from dmff.api import Hamiltonian
 from openmm import *
 from openmm.app import * 
 from openmm.unit import *
-from dmff1.mbar import MBAREstimator, TargetState, Sample, OpenMMSampleState, buildTrajEnergyFunction
-from dmff1.optimize import MultiTransform, genOptimizer
-import dmff1
-dmff1.PRECISION = 'float'
-dmff1.update_jax_precision(dmff1.PRECISION)
+from dmff.mbar import MBAREstimator, TargetState, Sample, OpenMMSampleState, buildTrajEnergyFunction
+from dmff.optimize import MultiTransform, genOptimizer
+import dmff
+dmff.PRECISION = 'float'
+dmff.update_jax_precision(dmff.PRECISION)
 import optax
 import mdtraj as md
 import pickle
