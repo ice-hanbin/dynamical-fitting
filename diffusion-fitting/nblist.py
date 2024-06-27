@@ -5,7 +5,7 @@ import jax.numpy as jnp
 from jax_md import space, partition
 import freud
 
-from dmff1.utils import regularize_pairs
+from dmff.utils import regularize_pairs
 
 
 class NeighborList:
