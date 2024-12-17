@@ -115,11 +115,11 @@ class Loss_Generator:
         traj = {}
         traj['time'] = jnp.zeros(self.nsteps//self.nout+1)
         traj0 = self.f_nout(state)
-        traj['state'] = jnp.repeat(traj0[jnp.newaxis, ...], (self.nsteps//self.nout), axis=0)
+        traj['state'] = jnp.repeat(traj0[jnp.newaxis, ...], (self.nsteps//self.nout+1), axis=0)
         for i in range(self.nsteps//self.nout):
             state = fwd(state)
-            traj['time'] = traj['time'].at[i].set(self.nout*self.dt*(i+1))
-            traj['state'] = traj['state'].at[i].set(self.f_nout(state))
+            traj['time'] = traj['time'].at[i+1].set(self.nout*self.dt*(i+1))
+            traj['state'] = traj['state'].at[i+1].set(self.f_nout(state))
         return state, traj
   
     def _ode_bwd(self, state, params, gradient_traj):
