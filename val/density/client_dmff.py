@@ -9,10 +9,10 @@ import jax
 #import jax._src.array
 import jax.numpy as jnp
 from jax import jit, vmap, value_and_grad
-from dmff1.utils import jit_condition
+from dmff.utils import jit_condition
 import openmm.app as app
 import openmm.unit as unit
-from dmff1.api import Hamiltonian
+from dmff.api import Hamiltonian
 import pickle
 import nblist
 
@@ -20,7 +20,7 @@ from jax.config import config
 config.update("jax_debug_nans", True)
 config.update("jax_enable_x64", True)
 
-import dmff1
+import dmff
 from eann import EANNForce
 
 class DMFFDriver(driver.BaseDriver):
