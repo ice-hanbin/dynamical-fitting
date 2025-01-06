@@ -1,4 +1,4 @@
-# Use DMFF and difftraj to get IR specturm
+# Use DMFF and difftraj to get IR spectrum
 
 This is an example of using the optimized EANN potential to obtain an IR spectrum. Both NVT and NVE simulations were performed using self-implemented code.
 
@@ -12,7 +12,7 @@ The covalent map file used in nblist is for 216 water molecules, same as [here](
 
 ## `difftraj.py`
 
-The code to perform a differentiable NVE simulation.
+The code to perform a differentiable NVE simulation, in [DMFF](https://github.com/deepmodeling/DMFF/blob/devel/docs/user_guide/4.8DiffTraj.md).
 
 ## `dipole.pb`
 
