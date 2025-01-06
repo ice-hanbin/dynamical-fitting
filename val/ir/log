@@ -1,0 +1,5 @@
+nmax         = 4000
+dt   (ps)    = 0.0005
+tmax (ps)    = 2.0
+Filter type  = gaussian
+Smooth width = 200
