@@ -5,10 +5,10 @@ import jax.numpy as jnp
 from jax.config import config
 config.update("jax_enable_x64", True)
 from jax_md import space
-from jax_md import partition_int64 as partition
+import partition_int64 as partition
 import freud
 
-from dmff1.utils import regularize_pairs
+from dmff.utils import regularize_pairs
 
 
 class NeighborList:
