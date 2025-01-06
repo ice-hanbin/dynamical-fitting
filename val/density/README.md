@@ -33,9 +33,9 @@ input file for i-PI
 
 The neighborlist used here, from `jax_md`.
 
-## `params-57.pickle`, `params-61.pickle`, `params-92.pickle`, `params-95.pickle`, `params-96.pickle`
+## `params-92.pickle`
 
-EANN potential parameters from 5 indenpent optimizations. To open this file, ensure your environment includes jax (version 0.4.14) and jaxlib (version 0.4.14+cuda11.cudnn86).
+EANN potential parameters after optimizations. To open this file, ensure your environment includes jax (version 0.4.14) and jaxlib (version 0.4.14+cuda11.cudnn86).
 
 ## `run_client_dmff.sh`
 
